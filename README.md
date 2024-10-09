@@ -11,6 +11,7 @@
 _Тест_
 
 '''
+
 #include <stdio.h>
 
 int main() {
@@ -20,6 +21,7 @@ int main() {
     return 0;
     
 }
+
 '''
 
 
